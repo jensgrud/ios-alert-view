@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name = 'CustomIOSAlertView'
-  s.version = '0.1.1'
+  s.name = 'ios-alert-view'
+  s.version = '0.2'
   s.license = 'Unlicensed'
   s.summary = 'Custom iOS alert views'
   s.homepage = 'https://github.com/jensgrud/CustomIOSAlertView'
